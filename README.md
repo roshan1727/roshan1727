@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+#About Me:
 <h1 align="center">Hi 👋, I'm Rakesh Roshan P</h1>
 <h3 align="center">"Passionate software developer eager to learn and grow in the ever-evolving tech world. Fresh out of the gates with hands-on experience in various tech stacks, I've honed my skills through self-directed projects and continuous learning. Excited to collaborate, innovate, and contribute to impactful solutions. Let's code the future together!"</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3sgdoM4rr4AxS77aXZ8pLq&ust=1707898143478000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDIprDup4QDFQAAAAAdAAAAABAJ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img alt="Coder GIF"  align="right"  height=250 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 I’m currently working on **reStart2x [self-made website project]**
 
